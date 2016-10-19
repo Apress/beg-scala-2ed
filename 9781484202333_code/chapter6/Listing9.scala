@@ -1,0 +1,1 @@
+scala> val m = collection.immutable.SortedSet(1,2,3)

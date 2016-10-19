@@ -1,0 +1,1 @@
+val m = collection.immutable.Set(1,2,3)

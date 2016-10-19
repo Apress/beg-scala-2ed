@@ -1,0 +1,1 @@
+def hello():String = {"Hello World!"}

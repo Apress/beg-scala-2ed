@@ -1,0 +1,1 @@
+scala> val m = collection.immutable.BitSet(1,2,3)

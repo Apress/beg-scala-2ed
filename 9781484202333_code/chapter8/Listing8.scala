@@ -1,0 +1,1 @@
+def get(in: Getable[Any]) {println("It's "+in.data)}

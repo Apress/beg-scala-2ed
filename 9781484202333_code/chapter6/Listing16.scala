@@ -1,0 +1,1 @@
+val x = scala.collection.mutable.LinearSeq(1,2,3)

@@ -1,0 +1,8 @@
+set name:= "helloworld"
+session save
+exit
+eclipse
+!
+help
+!
+help
